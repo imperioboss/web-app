@@ -1,0 +1,21 @@
+{
+  "short_name": "Império",
+  "name": "Império Pharma",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/KL5xgK1/Sem-nome-192-x-192-px.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/3fX8zbQ/Design-sem-nome.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#4682B4"
+}
